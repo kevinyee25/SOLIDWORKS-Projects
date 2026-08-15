@@ -62,7 +62,7 @@ Key SOLIDWORKS features used during the design included:
   <em>Part 1 – Final SOLIDWORKS model of the stopper components.</em>
 
 <p align="center">
-  <img width="500" alt="SOLIDWORKS Part 1 Stopper Model" src="YOUR-PART-1-IMAGE-URL" />
+  <img width="500" alt="SOLIDWORKS Part 1 Stopper Model" src="KevinYee_13937230_part 1.STL" />
 </p>
 
 
