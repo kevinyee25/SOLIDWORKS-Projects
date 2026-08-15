@@ -63,7 +63,7 @@ Key SOLIDWORKS features used during the design included:
 
 
 <p align="center">
-  📁 <a href="KevinYee_13937230_part2.STL">View Part 2 – Zip Line & Hooks STL</a>
+  📁 <a href="KevinYee_13937230_part1.STL">View Part 1 – Stopper STL</a>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Key SOLIDWORKS features used included:
   <em>Part 2 – Final SOLIDWORKS model of the zip line, hook features and pulling handles.</em>
   
 <p align="center">
-  📁 <a href="KevinYee_13937230_part2.STL">View Part 2 – Stopper STL</a>
+  📁 <a href="KevinYee_13937230_part 2.STL">View Part 2 – Zip Line & Hooks STL</a>
 </p>
 
 
