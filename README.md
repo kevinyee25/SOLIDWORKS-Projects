@@ -61,10 +61,7 @@ Key SOLIDWORKS features used during the design included:
 <p align="center">
   <em>Part 1 – Final SOLIDWORKS model of the stopper components.</em>
 
-<p align="center">
-  <img width="500" alt="SOLIDWORKS Part 1 Stopper Model" src="KevinYee_13937230_part 1.STL" />
-</p>
-
+<p align="center">[View Part 1 – Stopper STL](KevinYee_13937230_part 1.STL)
 
 ---
 
@@ -90,9 +87,7 @@ Key SOLIDWORKS features used included:
 <p align="center">
   <em>Part 2 – Final SOLIDWORKS model of the zip line, hook features and pulling handles.</em>
   
-<p align="center">
-  <img width="500" alt="SOLIDWORKS Part 2 Zip Line and Hook Model" src="YOUR-PART-2-IMAGE-URL" />
-</p>
+<p align="center">[View Part 1 – Stopper STL](KevinYee_13937230_part 1.STL)
 
 
 ---
@@ -120,9 +115,7 @@ Key assembly techniques included:
   <em>Final SOLIDWORKS assembly showing Part 1 and Part 2 positioned together.</em>
 </p>
 
-<p align="center">
-  <img width="600" alt="SOLIDWORKS Zip Stitch Final Assembly" src="YOUR-ASSEMBLY-IMAGE-URL" />
-</p>
+<p align="center">[View Part 1 – Stopper STL](KevinYee_13937230_part 1.STL)
 
 ---
 
