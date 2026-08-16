@@ -63,7 +63,7 @@ Key SOLIDWORKS features used during the design included:
 
 
 <p align="center">
-  📁 <a href="KevinYee_13937230_part1.STL">View Part 1 – Stopper STL</a>
+  📁 <a href="KevinYee_13937230_part 1.STL">View Part 1 – Stopper STL</a>
 </p>
 
 ---
